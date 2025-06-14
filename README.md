@@ -44,10 +44,3 @@ This project is a small suite of automated API tests written in Java using **Res
 4-Data extraction and reuse between API calls
 
 5-Clean separation of logic and utilities
-
----
-
-📞 Contact
-For questions or improvements, feel free to reach out
-
-

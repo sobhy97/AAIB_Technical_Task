@@ -5,11 +5,11 @@ This project is a small suite of automated API tests written in Java using **Res
 
 ## 📌 Scenarios Covered
 
-1. **Create User** – `POST /users
-2. **Update User** – `PUT /users/{id}
-3. **Get User** – `GET /users/{id}
-4. **Delete User** – `DELETE /users/{id}
-5. **Get User (Verify Deletion)** – `GET /users/{id}
+1. **Create User** – POST /users
+2. **Update User** – PUT /users/{id}
+3. **Get User** – GET /users/{id}
+4. **Delete User** – DELETE /users/{id}
+5. **Get User (Verify Deletion)** – GET /users/{id}
 
 ---
 
